@@ -1,6 +1,6 @@
 # Knee Osteoarthritis Detection Using Deep Convolutional Neural Networks
 
-Knee Osteoarthritis
+# Knee Osteoarthritis
   # Normal:
   Inside a healthy knee, everything looks smooth and white.
   The joint is like a well-lubricated hinge with no visible problems.
